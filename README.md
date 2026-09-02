@@ -1,8 +1,8 @@
-# TOLCS Product Design
+# TOLDS Product Design
 
-**Tree of Life Creative Studios — Product Design & Innovation**
+**Tree of Life Discovery Studios — Product Design & Innovation**
 
-TOLCS Product Design is the physical-product and engineering-concept division of Tree of Life Creative Studios. It explores original products, sewing technology, textile tools, mechanical concepts, and future hardware projects.
+TOLDS Product Design is the physical-product and engineering-concept division of Tree of Life Discovery Studios. It explores original products, sewing technology, textile tools, mechanical concepts, and future hardware projects.
 
 ## Current project
 
@@ -10,7 +10,7 @@ TOLCS Product Design is the physical-product and engineering-concept division of
 
 An original sewing-technology and product-design concept exploring how a compact, approachable machine could support sewing and textile work.
 
-[View the Sewing Beetle public showcase](https://github.com/TreeofLife-CreativeStudios/tolcs-product-design-sewing-beetle-showcase)
+[View the Sewing Beetle public showcase](https://github.com/TreeofLife-DiscoveryStudios/tolcs-product-design-sewing-beetle-showcase)
 
 ## Future project categories
 
@@ -27,6 +27,6 @@ Each product is maintained in a private development repository with a separate p
 
 ## Creator
 
-TOLCS Product Design is a division of **Tree of Life Creative Studios**, founded by **Jessica Bronson**.
+TOLDS Product Design is a division of **Tree of Life Discovery Studios**, founded by **Jessica Bronson**.
 
 All rights reserved.
